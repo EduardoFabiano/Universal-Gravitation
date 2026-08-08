@@ -16,3 +16,6 @@ Execute with:
 
 universal-gravitation.py
 ```
+Technologies Used:
+
+Programming language Python
