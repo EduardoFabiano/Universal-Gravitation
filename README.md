@@ -11,4 +11,8 @@ this script calculates Newton's law of universal gravitation
 ```bash
 git clone https://github.com/EduardoFabiano/Universal-Gravitation
 cd Universal-Gravitation
+
+Execute with:
+
+universal-gravitation.py
 ```
