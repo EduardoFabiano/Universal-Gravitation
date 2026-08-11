@@ -14,7 +14,7 @@ cd Universal-Gravitation
 
 Execute with:
 
-universal-gravitation.py
+python universal-gravitation.py
 ```
 # Technologies Used:
 
